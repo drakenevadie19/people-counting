@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">People Counter</string>
+
+    <string name="add_button_next">Add One</string>
+
+    <string name="add_button_next2">Reset</string>
+
+    <string name="initial_number">0</string>
+</resources>
